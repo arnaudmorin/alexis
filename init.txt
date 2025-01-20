@@ -3,7 +3,6 @@ ligne2
 ligne3
 ligne4
 ligne5
-lligne1
-lligne3
+lligne2
 lligne4
 lligne5
